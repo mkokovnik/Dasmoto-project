@@ -1,0 +1,35 @@
+h1, 
+h2, 
+h3, 
+p {
+  font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+    background-image: url("C:\Users\Mitja\Desktop\codeAcademyCheatsheets\full_stack_dev\CSS-Projekt\pattern.jpg");
+    text-align: center;
+    font-size: 100px;
+    color: rgb(165, 155, 65);
+  }
+
+  .item h2 {
+  font-size: 32px;
+  color: white;
+}
+
+.price {
+  font-weight: bold;
+  color: rgb(77, 77, 202);
+}
+
+#brush {
+  background-color: rgb(51, 141, 107);
+}
+
+#frame {
+  background-color: rgb(236, 75, 75);
+}
+
+#paint {
+  background-color: rgb(85, 187, 228);
+}
